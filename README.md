@@ -33,8 +33,3 @@ SentiGrid is distributed via the Microsoft Store (Windows 10/11).
 - **About:** https://sentigridlegal.github.io/sentigrid-legal/ABOUT.html  
 - **Privacy:** https://sentigridlegal.github.io/sentigrid-legal/PRIVACY.html  
 - **EULA:** https://sentigridlegal.github.io/sentigrid-legal/EULA.html  
-
-## Screens / Media
-- OG preview image: https://sentigridlegal.github.io/img/sentigrid-og.png  
-  *(Add more screenshots/GIFs under `/img/` and link them here as needed.)*
-
